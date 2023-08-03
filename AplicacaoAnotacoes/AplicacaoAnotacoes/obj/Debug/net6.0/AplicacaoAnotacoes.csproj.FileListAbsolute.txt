@@ -1,0 +1,15 @@
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\bin\Debug\net6.0\AplicacaoAnotacoes.exe
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\bin\Debug\net6.0\AplicacaoAnotacoes.deps.json
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\bin\Debug\net6.0\AplicacaoAnotacoes.runtimeconfig.json
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\bin\Debug\net6.0\AplicacaoAnotacoes.dll
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\bin\Debug\net6.0\AplicacaoAnotacoes.pdb
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\obj\Debug\net6.0\AplicacaoAnotacoes.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\obj\Debug\net6.0\AplicacaoAnotacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\obj\Debug\net6.0\AplicacaoAnotacoes.AssemblyInfoInputs.cache
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\obj\Debug\net6.0\AplicacaoAnotacoes.AssemblyInfo.cs
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\obj\Debug\net6.0\AplicacaoAnotacoes.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\obj\Debug\net6.0\AplicacaoAnotacoes.dll
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\obj\Debug\net6.0\refint\AplicacaoAnotacoes.dll
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\obj\Debug\net6.0\AplicacaoAnotacoes.pdb
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\obj\Debug\net6.0\AplicacaoAnotacoes.genruntimeconfig.cache
+C:\Users\gabri\Desktop\AplicacaoAnotacoes\AplicacaoAnotacoes\obj\Debug\net6.0\ref\AplicacaoAnotacoes.dll
